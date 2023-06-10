@@ -17,9 +17,9 @@ This project implements a simple two-factor authentication system in Python. It 
 
 1. Clone the repository:
 
-    ```bash
+  ```bash
     git clone https://github.com/your-username/two-factor-authentication.git
-    ```
+  ```
 
 2. Change into the project directory:
  
